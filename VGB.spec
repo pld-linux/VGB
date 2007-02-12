@@ -1,5 +1,5 @@
 Summary:	GameBoy emulator
-Summary(pl.UTF-8):   Emulator GameBoya
+Summary(pl.UTF-8):	Emulator GameBoya
 Name:		VGB
 Version:	3.0
 Release:	1
