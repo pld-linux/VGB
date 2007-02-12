@@ -1,5 +1,5 @@
 Summary:	GameBoy emulator
-Summary(pl):	Emulator GameBoya
+Summary(pl.UTF-8):   Emulator GameBoya
 Name:		VGB
 Version:	3.0
 Release:	1
@@ -18,11 +18,11 @@ Color games on PCs, Macs, PocketPCs, or just about any other
 sufficiently fast computer in existence. It can also help to debug
 GameBoy software without using a costly development system.
 
-%description -l pl
+%description -l pl.UTF-8
 Virtual GameBoy (VGB) to emulator kieszonkowej gry telewizyjnej
 GameBoy produkowanej przez Nintendo. Uruchamia gry z GameBoya, Super
 GameBoya i GameBoya Color na komputerach PC, Mac, PocketPC albo innych
-wystarczaj±co szybkich. Moøe takøe pomÛc przy poprawianiu
+wystarczajƒÖco szybkich. Mo≈ºe tak≈ºe pom√≥c przy poprawianiu
 oprogramowania dla GameBoya bez kosztownego systemu programistycznego.
 
 %prep
